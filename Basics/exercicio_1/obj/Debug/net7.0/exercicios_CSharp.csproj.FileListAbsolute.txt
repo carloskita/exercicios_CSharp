@@ -1,0 +1,15 @@
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\bin\Debug\net7.0\exercicios_CSharp.exe
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\bin\Debug\net7.0\exercicios_CSharp.deps.json
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\bin\Debug\net7.0\exercicios_CSharp.runtimeconfig.json
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\bin\Debug\net7.0\exercicios_CSharp.dll
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\bin\Debug\net7.0\exercicios_CSharp.pdb
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\exercicios_CSharp.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\exercicios_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\exercicios_CSharp.AssemblyInfoInputs.cache
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\exercicios_CSharp.AssemblyInfo.cs
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\exercicios_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\exercicios_CSharp.dll
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\refint\exercicios_CSharp.dll
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\exercicios_CSharp.pdb
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\exercicios_CSharp.genruntimeconfig.cache
+C:\Users\carlo\Downloads\Github_Projects\exercicios_CSharp\obj\Debug\net7.0\ref\exercicios_CSharp.dll
